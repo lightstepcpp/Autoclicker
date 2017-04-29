@@ -1,2 +1,2 @@
 # Autoclicker
-C++ Autoclicker with an option to choose between Right and Left click and to choose a custom delay.
+C++ Autoclicker with an option for the user to choose what delay they want and which click they want (right click, left click).
