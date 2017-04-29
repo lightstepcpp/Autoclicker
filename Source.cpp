@@ -16,7 +16,7 @@ int main()
 
 	cout << "Delay between the clicks [1-1000]: ";
 	cin >> delay;
-	cout << "You are now ready to use the autoclicker, hold space to activate Tea Clicker." << endl;
+	cout << "You are now ready to use the autoclicker, hold space to activate the Autoclicker." << endl;
 	system("color A");  //after all of the user inputs the color of the text changes
 
 						/*~I know this is fucking confusing, but it works :thumbs_up:~*/
