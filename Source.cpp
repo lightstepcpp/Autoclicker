@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	SetConsoleTitle("Tea Clicker");
+	SetConsoleTitle("Console Title here!");
 	int delay;
 	string Input;
 	cout << "Type R for right click L for left click: ";
