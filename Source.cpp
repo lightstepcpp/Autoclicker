@@ -19,7 +19,7 @@ int main()
 	cout << "You are now ready to use the autoclicker, hold space to activate the Autoclicker." << endl;
 	system("color A");  //after all of the user inputs the color of the text changes
 
-						/*~I know this is fucking confusing, but it works :thumbs_up:~*/
+						/*~I know this is fucking confusing, but it works~*/
 	if (Input.compare("R"))  //this will activate RIGHTDOWN, not LEFTDOWN!
 	{
 
